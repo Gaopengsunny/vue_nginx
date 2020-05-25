@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <h2>one more thing</h2>
+    <h2>one more thing2</h2>
+    <h2>测试sh文件夹</h2>
   </div>
 </template>
 
