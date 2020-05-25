@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <h2>one more thing2</h2>
-    <h2>测试sh文件夹哈哈</h2>
+    <h2>测试sh文件试试吧</h2>
   </div>
 </template>
 
